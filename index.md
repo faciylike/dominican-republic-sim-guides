@@ -51,3 +51,10 @@ layout: default
 
 　　总的来说，在多米尼加弄张手机卡流程不算复杂，核心就是“带好护照、选对套餐、设对APN”。搞定这三点，你就能在海滩上愉快地刷片、在古城里实时导航了。祝你在多米尼加玩得开心，网络畅通！
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Dominican Republic eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/dominican-republic-data-plans)
